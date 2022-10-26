@@ -1,23 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# DOCUMENTATION
 
-## Getting Started
+## START PROJECT
 
-1. Run this command to install all dependencies needed in this project
-```bash
-npm install
-```
+- Download this project and save to your local and also download `api-waste` repository to get the api for this simple app
+- Run `npm install` to install all packages needed
+- Then, you can run command `npm run dev` or `yarn run dev` to start your react server and see how it works
 
-2. Start to the server to see the result of the project
-```bash
-npm run dev
-# or
-yarn dev
-```
+## RESULT
 
-3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Result
-
+<div style="display: flex">
 <img src="https://i.postimg.cc/vBQ2fMq5/Screen-Shot-2022-10-01-at-18-23-57.png" />
+</div>
+
 
 

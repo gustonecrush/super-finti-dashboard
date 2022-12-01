@@ -2,7 +2,7 @@
 
 ## START PROJECT
 
-- Download this project and save to your local and also download `api-waste` repository to get the api for this simple app
+- Download this project and save to your local 
 - Run `npm install` to install all packages needed
 - Then, you can run command `npm run dev` or `yarn run dev` to start your react server and see how it works
 
